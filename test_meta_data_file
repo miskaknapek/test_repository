@@ -1,12 +1,12 @@
 # Was is dass?
 [ja] Diese hast ja gestimmt. 
 [nein] Diese hast ja gestimmt. 
-[imageurl] "tempdata/temp_screenshot.png"
+[imageurl] tempdata/temp_screenshot.png
 
 # Was is dass - TEIL ZWEI!?
 [ja] Diese hast ja gestimmt 2. 
 [nein] Diese hast ja gestimmt 2. 
-[imageurl] "tempdata/temp_screenshot2.png"
+[imageurl] tempdata/temp_screenshot2.png
 
 # Was is dass - DREI TEIL?
 [ja] Diese hast ja gestimmt 3. 
