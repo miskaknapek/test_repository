@@ -1,14 +1,14 @@
-# Was is dass?
-[ja] Diese hast ja gestimmt. 
-[nein] Diese hast ja gestimmt. 
+[introtext] Was is dass?
+[jatext] Diese hast ja gestimmt. 
+[neintext] Diese hast ja gestimmt. 
 [imageurl] tempdata/temp_screenshot.png
 
-# Was is dass - TEIL ZWEI!?
-[ja] Diese hast ja gestimmt 2. 
-[nein] Diese hast ja gestimmt 2. 
+[introtext] Was is dass - TEIL ZWEI!?
+[jatext] Diese hast ja gestimmt 2. 
+[neintext] Diese hast ja gestimmt 2. 
 [imageurl] tempdata/temp_screenshot2.png
 
-# Was is dass - DREI TEIL?
-[ja] Diese hast ja gestimmt 3. 
-[nein] Diese hast ja gestimmt 3. 
+[introtext] Was is dass - DREI TEIL?
+[jatext] Diese hast ja gestimmt 3. 
+[neintext] Diese hast ja gestimmt 3. 
 [imageurl] tempdata/temp_screenshot3.png
